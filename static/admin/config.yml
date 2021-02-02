@@ -1,5 +1,6 @@
 backend:
-  name: git-gateway
+  name: github
+  repo: mustafa-synectiks/gatsby-starter-netlify-cms-pack.git
   branch: master
   commit_messages:
     create: 'Create {{collection}} “{{slug}}”'
